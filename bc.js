@@ -18,9 +18,9 @@ client.on("message", message => {
 
 client.on('ready', () => {
    console.log(`----------------`);
-      console.log(`Desert Bot- Script By : franchisco`);
+      console.log(`Desert Bot- Script By : Syoof`);
         console.log(`----------------`);
-      console.log(`ON ${client.guilds.size} Servers '     Script By : fanchisco ' `);
+      console.log(`ON ${client.guilds.size} Servers '     Script By : Syoof#4444 ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
 client.user.setStatus("dnd")
@@ -28,4 +28,4 @@ client.user.setStatus("dnd")
 
 
 
-client.login("NTY3OTUwMTY0MTkxNjA4ODQ0.XRxckA.UgbyqSADm3UVNG6Qc13ssY5ej38");
+client.login("");
